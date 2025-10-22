@@ -1,7 +1,3 @@
-Este é um ótimo modelo de `README` para apresentar projetos de Data Analytics. Vou estruturar o projeto **"Model Fitness Churn Analysis & Retention Strategy"** usando exatamente o mesmo formato, focando em como os resultados impactam as decisões de negócios.
-
----
-
 ## 🏋️ Project: Model Fitness Churn Analysis & Retention Strategy
 
 ### Objective
